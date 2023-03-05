@@ -9,7 +9,32 @@ Welcome to Conant Robotics's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   mechanics
+   electronics
+   radio
+   coding
+   wishlist
 
+=========
+mechanics
+=========
+
+===========
+electronics
+===========
+
+=====
+radio
+=====
+
+======
+coding
+======
+
+========
+wishlist
+========
 
 
 Indices and tables
